@@ -1,0 +1,19 @@
+# ninja log v5
+2	710	6985641014158567	CMakeFiles/HuffmanEncoding.dir/huffman.cpp.obj	57c49b33fd9ddbc0
+710	906	6985641016189111	HuffmanEncoding.exe	cb1e8a4fe6ead7f6
+3	531	6985641285300975	CMakeFiles/HuffmanEncoding.dir/huffman.cpp.obj	57c49b33fd9ddbc0
+531	650	6985641286503879	HuffmanEncoding.exe	cb1e8a4fe6ead7f6
+2	609	6985645335801570	CMakeFiles/HuffmanEncoding.dir/huffman.cpp.obj	57c49b33fd9ddbc0
+609	801	6985645337890872	HuffmanEncoding.exe	cb1e8a4fe6ead7f6
+2	634	6985646725481557	CMakeFiles/HuffmanEncoding.dir/huffman.cpp.obj	57c49b33fd9ddbc0
+635	816	6985646727289208	HuffmanEncoding.exe	cb1e8a4fe6ead7f6
+2	533	6985649012590812	CMakeFiles/HuffmanEncoding.dir/huffman.cpp.obj	57c49b33fd9ddbc0
+535	655	6985649013875503	HuffmanEncoding.exe	cb1e8a4fe6ead7f6
+2	615	6985653764211641	CMakeFiles/HuffmanEncoding.dir/huffman.cpp.obj	57c49b33fd9ddbc0
+616	785	6985653765869152	HuffmanEncoding.exe	cb1e8a4fe6ead7f6
+2	577	6985656282898005	CMakeFiles/HuffmanEncoding.dir/huffman.cpp.obj	57c49b33fd9ddbc0
+578	760	6985656284695279	HuffmanEncoding.exe	cb1e8a4fe6ead7f6
+4	600	6985667029859346	CMakeFiles/HuffmanEncoding.dir/huffman.cpp.obj	57c49b33fd9ddbc0
+600	757	6985667031456285	HuffmanEncoding.exe	cb1e8a4fe6ead7f6
+2	631	6985759082626550	CMakeFiles/HuffmanEncoding.dir/huffman.cpp.obj	57c49b33fd9ddbc0
+632	780	6985759084236326	HuffmanEncoding.exe	cb1e8a4fe6ead7f6
